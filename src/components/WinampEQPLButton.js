@@ -7,7 +7,7 @@ class WinampEQPLButton extends HTMLElement {
   get styles() {
     return `
       .button {
-        background: url(/assets/shufflerepeat.png);
+        background: url(assets/shufflerepeat.png);
         background-position-x: var(--x);
         background-position-y: -73px;
         width: 22px;

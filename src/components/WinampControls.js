@@ -21,7 +21,7 @@ class WinampControls extends HTMLElement {
       }
 
       .duration .button {
-        background: url(/assets/posbar.png);
+        background: url(assets/posbar.png);
         background-position-x: -248px;
         width: 29px;
         height: 10px;
@@ -33,7 +33,7 @@ class WinampControls extends HTMLElement {
       }
 
       .eject {
-        background: url(/assets/cbuttons.png);
+        background: url(assets/cbuttons.png);
         background-position: -114px 0;
         width: 22px;
         height: 16px;
@@ -65,14 +65,14 @@ class WinampControls extends HTMLElement {
 
       .shuffle {
         --x: -28px;
-        background: url(/assets/shufflerepeat.png);
+        background: url(assets/shufflerepeat.png);
         width: 46px;
         height: 100%;
       }
 
       .repeat {
         --x: 0;
-        background: url(/assets/shufflerepeat.png);
+        background: url(assets/shufflerepeat.png);
         width: 29px;
         height: 100%;
       }

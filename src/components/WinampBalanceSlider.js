@@ -12,14 +12,14 @@ class WinampBalanceSlider extends HTMLElement {
       }
 
       .slider {
-        background: url(/assets/balance.png);
+        background: url(assets/balance.png);
         background-position-x: -9px;
         width: 38px;
         height: 14px;
       }
 
       .button {
-        background: url(/assets/volume.png);
+        background: url(assets/volume.png);
         background-position: -15px -422px;
         width: 14px;
         height: 12px;

@@ -14,7 +14,7 @@ class WinampMain extends HTMLElement {
         flex-direction: column;
         width: 275px;
         height: 116px;
-        background: url(/assets/main.png);
+        background: url(assets/main.png);
         image-rendering: pixelated;
       }
     `;

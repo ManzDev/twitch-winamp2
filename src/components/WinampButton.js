@@ -19,7 +19,7 @@ class WinampButton extends HTMLElement {
   get styles() {
     return `
       .button {
-        background: url(/assets/cbuttons.png);
+        background: url(assets/cbuttons.png);
         background-position-x: var(--x, 0);
         width: 22px;
         height: 18px;

@@ -12,14 +12,14 @@ class WinampVolumeSlider extends HTMLElement {
       }
 
       .slider {
-        background: url(/assets/volume.png);
+        background: url(assets/volume.png);
         background-position-y: -285px;
         width: 68px;
         height: 14px;
       }
 
       .button {
-        background: url(/assets/volume.png);
+        background: url(assets/volume.png);
         background-position: -15px -422px;
         width: 14px;
         height: 12px;

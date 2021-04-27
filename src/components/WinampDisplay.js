@@ -78,7 +78,7 @@ class WinampDisplay extends HTMLElement {
       .mono,
       .stereo {
         transform: translate(0, 6px);
-        background: url(/assets/monostereo.png);
+        background: url(assets/monostereo.png);
         width: 29px;
         height: 12px;
       }
